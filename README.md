@@ -1,4 +1,4 @@
-Hi there , https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif I'm  ROUMO KUNDU !!
+Hi there , I'm  ROUMO KUNDU !!
 - 👋 Hi, I’m @rjzeref {Roumo}
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning advanced java
